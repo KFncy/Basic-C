@@ -1,0 +1,4 @@
+﻿  game.c
+D:\VScode\homework\Minesweeper\Minesweeper\game.c(130,5): warning C4013: “DisplayBoard”未定义；假设外部返回 int
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: “link.exe”已退出，代码为 1168。
+LINK : fatal error LNK1168: 无法打开 D:\VScode\homework\Minesweeper\x64\Debug\Minesweeper.exe 进行写入
